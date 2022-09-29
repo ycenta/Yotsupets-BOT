@@ -1,0 +1,19 @@
+{
+  "name": "yotsupets-bot",
+  "version": "1.0.0",
+  "description": "Twitch bot linking yotsupets laravel app to twitch chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycenta/Yotsupets-BOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycenta/Yotsupets-BOT/issues"
+  },
+  "homepage": "https://github.com/ycenta/Yotsupets-BOT#readme"
+}
